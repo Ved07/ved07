@@ -1,11 +1,11 @@
 <h1 align="center">Vedansh Mudgal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;AI%2FML+Enthusiast;Cloud+%26+DevOps+Learner;Building+Practical+Software+Projects" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Cloud+%26+DevOps+Learner;Building+Practical+Software+Projects" alt="Typing animation" />
 </p>
 
 <p align="center">
-  B.Tech CSE @ KIET &nbsp;|&nbsp; Cloud &amp; DevOps &nbsp;•&nbsp; AI/ML &nbsp;•&nbsp; Backend
+  B.Tech CSE @ KIET &nbsp;|&nbsp; Cloud &amp; DevOps &nbsp;•&nbsp; AI/ML &nbsp;•&nbsp; Full Stack Developer
 </p>
 
 ---
